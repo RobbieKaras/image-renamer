@@ -1,7 +1,9 @@
+# image_renamer.py
+# Renames all image files in a folder and its subfolders to a standard format
+
 import os
 
-# Full path to the folder on your Desktop
-root_dir = r'C:\Users\Robbi\Desktop\saints_of_the_year'
+root_dir = r'C:\Path\To\Your\Folder'  # ← Change this to your actual folder
 
 image_extensions = ('.png', '.jpg', '.jpeg', '.gif', '.bmp', '.webp')
 
