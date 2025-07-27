@@ -83,8 +83,5 @@ Please ensure any changes are tested and clearly documented.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
-## 📄 License
-
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 "# image-renamer" 
